@@ -1,0 +1,1 @@
+x = [i**3 for i in mass if i % 3 == 0 and i % 4 == 0]
